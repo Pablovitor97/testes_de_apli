@@ -1,0 +1,4 @@
+SPA feita com Vue.js
+Tela de Registro de Dominios para a 
+Host Gator; 
+O codigo pode ter um pequeno erro.

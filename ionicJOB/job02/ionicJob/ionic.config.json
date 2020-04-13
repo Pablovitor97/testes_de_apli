@@ -1,0 +1,8 @@
+{
+  "name": "ionicJob",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
